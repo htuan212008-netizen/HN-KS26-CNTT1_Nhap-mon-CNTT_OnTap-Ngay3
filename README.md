@@ -1,15 +1,15 @@
 # <h1 align="center">TRUNG TÂM TIẾNG ANH TTA</h1>
 
 ## 1.Giới thiệu
-   **Trung tâm tiếng Anh TTA** là hệ thống đào tạo cất lượng cam, đảm bao chuẩn *đầu ra Quốc tế* cho học viên mọi lứa tuổi
+   **Trung tâm tiếng Anh TTA** là hệ thống đào tạo cất lượng cam, đảm bao chuẩn *đầu ra Quốc tế* cho học viên mọi lứa tuổi.
 ## 2.Cấu trúc thư mục
 Dự án được tổ chức theo cấu trúc thư mục và tập tin tiêu chuẩn:
 |Thư mục|Nội dung|
 |:---|:---|
-|**`.env`**|File cấu hình ẩn, chứa thông tin giả lập bảo mật|
-|**`data`**|Chứa các file bảng tính Excel (**`học_phi_thang_10.xlsx`**, **`hoc_vien_khoa_3.xlsx`**)|
-|**`docs`**|Tài liệu hướng dẫn và thông tin cần thiết (**`lich_hoc.txt`**)|
-|**`media`**|Thư mục lưu trữ hình ảnh và các file phương tiện|
+|**`.env`**|File cấu hình ẩn, chứa thông tin giả lập bảo mật.|
+|**`data`**|Chứa các file bảng tính Excel (**`học_phi_thang_10.xlsx`**, **`hoc_vien_khoa_3.xlsx`**).|
+|**`docs`**|Tài liệu hướng dẫn và thông tin cần thiết (**`lich_hoc.txt`**).|
+|**`media`**|Thư mục lưu trữ hình ảnh và các file phương tiện.|
 
 ## 3.Quy trình đăng kí
 3.1. Tiếp nhận và kiểm tra đầu vào của học viên
